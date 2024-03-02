@@ -57,18 +57,3 @@ The object page for a purchase order consists of four facets:
 2. **Product Line Items:** Presents a table of all product line items for the purchase order.
 3. **Service Line Items:** Shows a table of all service line items for the purchase order.
 4. **Vendor Information:** Provides detailed information about the vendor.
-
-## Getting Started
-
-To use the Purchase Order Management System, follow these steps:
-
-1. Clone the repository: `git clone [repository-url]`
-2. Set up the necessary backend systems and databases as per the deployment instructions.
-3. Configure Fiori elements based on your SAP Fiori launchpad.
-
-## Usage
-
-1. Create new purchase orders.
-2. View and update existing purchase orders.
-3. Delete purchase orders as needed.
-4. Utilize F4 helps for Vendor ID, Product ID, and Service ID based on the respective master data.
