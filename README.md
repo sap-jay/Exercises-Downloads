@@ -12,6 +12,8 @@ Utilize abap-Git for version control and explore integration with an open-source
 
 ## 4. Build SAP Fiori Apps with ABAP RAP Managed - Beginners
 Use a realistic business scenario or the given Use Case : Manage Purchase Orders
+https://github.com/sap-jay/Exercises-Downloads/blob/main/Use%20Case%20%3A%20Manage%20Purchase%20Order.md
+
 ## RAP Managed Application: Manage Purchase Orders
 
 ### Use Case: Manage Purchase Orders in a Realistic Business Scenario
